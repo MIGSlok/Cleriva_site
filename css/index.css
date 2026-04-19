@@ -170,6 +170,12 @@ h2 {
 
 .ver-mais:hover { background: #1b4332; }
 
+#saiba_mais{
+    font-family: 'nunito', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+
 .culinaria {
     background-color: #1b4332;
     padding: 60px 40px;
@@ -185,7 +191,7 @@ h2 {
  
 .culinaria .dicas {
     background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.2);
+    border: 1px solid #ffffff33;
 }
  
 .culinaria .card { background: #fdf8f0; }
